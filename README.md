@@ -1,6 +1,6 @@
-# Advent of Code 2024 Solutions
+# Advent of Code Solutions
 
-A collection of solutions for Advent of Code 2024 implemented using Deno and TypeScript.
+A collection of solutions for Advent of Code implemented using Deno and TypeScript.
 
 > [!IMPORTANT]
 > All solutions in this repository are created entirely by human without any AI assistance, respecting the spirit of Advent of Code and its competitive leaderboard. This aligns with [the creator's request to maintain fair competition and genuine learning experience](https://adventofcode.com/2024/about).
@@ -40,14 +40,14 @@ deno task test --day <day_number> --year <year_number>
 deno task solve --day <day_number> --year <year_number>
 ```
 
-For example, to test and solve day 1 for 2024:
+For example, to test and solve day 1 for 2025:
 
 ```bash
-deno task test --day 1 --year 2024
-deno task solve --day 1 --year 2024
+deno task test --day 1 --year 2025
+deno task solve --day 1 --year 2025
 ```
 
-The default day is 1 and the default year is 2024 if not specified.
+The default day is 1 and the default year is 2025 if not specified.
 
 The commands will automatically:
 
