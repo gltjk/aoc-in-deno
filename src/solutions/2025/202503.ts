@@ -1,4 +1,4 @@
-#! NO_COLOR=1 deno task solve --day 3
+#! NO_COLOR=1 deno task solve --day 3 --year 2025
 
 /**
  * Day 3: Lobby

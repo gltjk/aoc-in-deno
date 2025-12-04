@@ -9,6 +9,7 @@
   "tasks": {
     "solve": "deno -A --env-file src/index.ts solve",
     "test": "deno -A --env-file src/index.ts test",
+    "init": "deno -A --env-file src/index.ts init",
     "test-helpers": "deno test src/tests/helpers"
   }
 }

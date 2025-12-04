@@ -1,5 +1,5 @@
 import { parseArgs } from "@std/cli/parse-args";
-import { solve, test } from "./commands/index.ts";
+import { init, solve, test } from "./commands/index.ts";
 
 main();
 
@@ -29,6 +29,9 @@ async function main() {
         break;
       case "test":
         await test({ year, day });
+        break;
+      case "init":
+        await init({ year, day });
         break;
       default:
         throw new Error(`Unknown command: ${cmd}`);

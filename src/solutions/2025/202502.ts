@@ -1,4 +1,4 @@
-#! NO_COLOR=1 deno task solve --day 2
+#! NO_COLOR=1 deno task solve --day 2 --year 2025
 
 /**
  * Day 2: Gift Shop

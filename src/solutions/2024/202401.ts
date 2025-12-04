@@ -1,4 +1,4 @@
-#! NO_COLOR=1 deno task solve --day 1
+#! NO_COLOR=1 deno task solve --day 1 --year 2024
 
 /**
  * Day 1: Historian Hysteria

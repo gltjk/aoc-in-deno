@@ -1,4 +1,4 @@
-#! NO_COLOR=1 deno task solve --day 4
+#! NO_COLOR=1 deno task solve --day 4 --year 2024
 
 /**
  * Day 4: Ceres Search
