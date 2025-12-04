@@ -8,7 +8,7 @@ const example = `987654321111111
 234234234234278
 818181911112111`;
 
-Deno.test("202502", () => {
+Deno.test("202503", () => {
   assertEquals(solve(example, 1), 357);
   assertEquals(solve(example, 2), 3121910778619);
 });
